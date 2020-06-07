@@ -112,7 +112,26 @@
  
         <div class="realisl1">CONTACTEZ-NOUS</div> 
         <div class="realisl2">  <HR class="trait3" NOSHADE color=#2c3e50 ALIGN=CENTER WIDTH="100" SIZE="4"> <img class="etoile2" src="https://img.icons8.com/material-rounded/54/2c3e50/star.png"/>  <HR class="trait4"  NOSHADE color=#2c3e50 ALIGN=CENTER WIDTH="100" SIZE="4">   </div>
-
+            
+                        <form action="formulaire.php" method="post">
+                <p>
+                <strong>Nom<span style="color: #ff0000;">*</span> :</strong> <br><br> <label for="nom"> </label> <input id="nom" name="nom" size="28" type="text" /> <br/><br>
+                <strong>Prénom :</strong> <br><br><label for="prenom"></label>  <input id="prenom" name="prenom" size="27" type="text" /> <br /><br /> 
+                <strong> Société : </strong><br /> <label for="societe"> </label> <br><input id="societe" name="societe" size="81" type="text" /> <br /><br /> 
+                <strong>Téléphone :<label for="telephone"><br><br> </label></strong>  <input id="telephone" name="telephone" size="27" type="text" /> <br><br>
+                <strong>Mail <span style="color: #ff0000;">*</span> : </strong><br /><br> <label for="mail"> </label><input id="mail" name="mail" size="81" type="text" /></p>
+                <p><strong>Sujet du message :</strong></p>
+                <label for="motif"></label> <select id="motif" name="motif"> <option value="reglement">Demande de service</option> 
+                <option value="enquete_commerciales">Commentaire / Suggestion</option>
+                <option value="enquete_civile">Candidature</option> 
+                <option value="recouvrement">Autre </option> 
+                 </select>
+                <p><strong><br>Votre message <span style="color: #ff0000;"></strong>*</span> :</p>
+                <p><label for="message"></label> <textarea id="message" cols="81" rows="10" name="message"></textarea></p>
+                <input style="margin: 2%; width: 5%; font-family: Montserrat, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji; font-size: 16px; border-radius: 3px; border: none; background-color: #1abc9c;" type="reset" value="Effacer" /> 
+                <input style="margin: 2%; width: 5%; font-family: Montserrat, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji; font-size: 16px; border-radius: 3px; border: none; background-color: #1abc9c;" type="submit" value="Envoyer" />
+                <p> </p>
+                </form>
     </div>
 
 </div>
