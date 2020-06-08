@@ -76,7 +76,7 @@ if ($renseigne == 1 AND $header == 1 AND $courriel == 1)
 /*Envoi du mail*/
 
 /*Le destinataire*/
-$to="infos.commi@gmail.com";
+$to="demo@fafa-informatique.com";
 
 /*Le sujet du message qui apparaitra*/
 $sujet="Message depuis le site";
