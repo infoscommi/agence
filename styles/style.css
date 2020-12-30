@@ -147,6 +147,9 @@ textarea:hover{
 }
 
 .contenupage1{
+    top: 0;
+    left: 0;
+    right: 0;
     display: grid;
     grid-template-columns: 1fr 1.5fr 1.5fr 1.5fr 1.5fr 1fr;
 }
