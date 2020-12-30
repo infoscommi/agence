@@ -165,6 +165,7 @@ transition: 0.5s;
 }
 
 .slogan{
+    margin: 20px;
     margin-top: -3%;
     text-align: center;
 }
