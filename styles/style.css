@@ -138,11 +138,13 @@ textarea:hover{
 
 .page1{
     min-height: 100vh;
-    margin-top: 100vh;
     background: radial-gradient( circle farthest-corner at 10% 20%,  rgba(0,93,133,1) 0%, rgba(0,181,149,1) 90% );
 }
 
-
+.contenupage1{
+    display: grid;
+    grid-template-columns: 1fr 1.5fr 1.5fr 1.5fr 1.5fr 1fr;
+}
 
 .imagesp1>img{
 width: 30vh;
