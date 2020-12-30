@@ -141,6 +141,7 @@ textarea:hover{
 }
 
 .contenupage1{
+    margin-top: 150px;
     display: grid;
     grid-template-columns: 1fr 1.5fr 1.5fr 1.5fr 1.5fr 1fr;
 }
