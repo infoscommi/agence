@@ -7,7 +7,7 @@ body{
 
 @media all and (max-width:480px){
     header {
-        width: 480px;   
+        width: 100%;   
     }
 }
 
