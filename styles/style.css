@@ -178,6 +178,10 @@ transition: 0.5s;
 .l2{ display: flex;
 }
 
+#animateMe {
+    margin-top: 100px;
+}
+
 .trait1{
     margin-left: 38%;
     margin-top: 2%;
