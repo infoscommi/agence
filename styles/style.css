@@ -9,6 +9,9 @@ body{
     header {
         width: 100%;   
     }
+    .imagesp1 {
+        display: inline-block;   
+    }
 }
 
 a{
