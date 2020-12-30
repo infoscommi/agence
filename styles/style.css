@@ -10,7 +10,8 @@ body{
         width: 100%;   
     }
     .contenupage1 {
-        display: inline-block;   
+        float:right;
+        float:left;
     }
 }
 
