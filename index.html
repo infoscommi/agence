@@ -50,7 +50,7 @@
     <div class="slogan"> 
         <div class="l1">COMMI</div> 
         <div class="l2">  <HR class="trait1" NOSHADE color= white ALIGN=CENTER WIDTH="120" SIZE="4"> <img class="etoile" src="https://img.icons8.com/material-rounded/64/FFFFFF/star.png"/>  <HR class="trait2"  NOSHADE color= white ALIGN=CENTER WIDTH="120" SIZE="4">   </div>
-        <div class="l3"> Au service de vos envies</div> 
+        <div id="animateMe">Au service de vos envies</div> 
     </div>
 </div>
 
@@ -177,6 +177,24 @@
     function myFunction5() {
       document.getElementById("message").value = " ";
     }
+     
+    var test = new Letterize({
+      targets: "#animateMe"
+    });
+
+    var animation = anime.timeline({
+      targets: test.listAll(),
+      delay: anime.stagger(50),
+      loop: true
+    });
+
+    animation
+      .add({
+        translateY: -40
+      })
+      .add({
+        translateY: 0
+      });
 </script>    
         
         
