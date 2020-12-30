@@ -165,7 +165,6 @@ transition: 0.5s;
 }
 
 .slogan{
-    margin: 20px;
     margin-top: -3%;
     text-align: center;
 }
@@ -176,10 +175,6 @@ transition: 0.5s;
 }
 
 .l2{ display: flex;
-}
-
-#animateMe {
-    margin-top: 130px;
 }
 
 .trait1{
