@@ -63,11 +63,15 @@ body{
     }
     
     .effacer {
-        width: 10% !important;   
+        width: 12% !important;   
     }
     
     .envoyer {
-        width: 10% !important;   
+        width: 12% !important;   
+    }
+    
+    header {
+        text-align: center;   
     }
     
 }
