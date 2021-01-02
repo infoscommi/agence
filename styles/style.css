@@ -39,7 +39,7 @@ body{
     }
     
     .trait1 {
-        margin-right: 50%;   
+        transform: translateX(-40px);  
     }
     
     .trait2 {
