@@ -21,6 +21,10 @@ body{
         padding: 10px;   
     }
     
+    header{
+        justify-content: space-around;
+    }
+    
 }
 
 a{
@@ -30,7 +34,6 @@ a{
 
 header{
     position: fixed;
-    justify-content: space between;
     top: 0;
     left: 0;
     right: 0;
