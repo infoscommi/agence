@@ -39,19 +39,19 @@ body{
     }
     
     .trait1 {
-        transform: translateX(-40px);  
-    }
-    
-    .trait2 {
-        margin-right: 50%;   
+        transform: translateX(-20px);  
     }
     
     .trait3 {
-        margin-right: 50%;   
+        transform: translateX(-20px);     
     }
     
-    .trait4 {
-        margin-right: 50%;   
+    .trait5 {
+        transform: translateX(-20px);     
+    }
+    
+    .trait7 {
+        transform: translateX(-20px);     
     }
     
 }
