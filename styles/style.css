@@ -55,7 +55,11 @@ body{
     }
     
     .commi>a>img{
-        width: 30% !important;
+        width: 80% !important;
+    }
+    
+    .slogan {
+        margin-top: 2%;   
     }
     
 }
