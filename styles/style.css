@@ -19,10 +19,11 @@ body{
     }
     .etoile{
         padding: 10px;   
+        margin-left: 40%;
     }
     
     .imagesp1>img{
-        width: 20vh;
+        width: 10vh;
 
     }
     
