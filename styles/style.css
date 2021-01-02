@@ -39,7 +39,11 @@ body{
     }
     
     .trait1 {
-        transform: translateX(-30px);  
+        display: none;
+    }
+    
+    .trait2 {
+        display: none;
     }
     
     .trait3 {
