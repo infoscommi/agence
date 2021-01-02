@@ -21,12 +21,9 @@ body{
         padding: 10px;   
     }
     
-    header{
-        justify-content: space-around;
-    }
-    
-    .real{
-        margin-left: 30%;
+    .imagesp1>img{
+        width: 20vh;
+
     }
     
 }
