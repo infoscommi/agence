@@ -63,7 +63,11 @@ body{
     }
     
     .effacer {
-        width: 8% !important;   
+        width: 10% !important;   
+    }
+    
+    .envoyer {
+        width: 10% !important;   
     }
     
 }
