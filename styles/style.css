@@ -216,6 +216,7 @@ width: 30vh;
 
 .imagesp1{
     margin-top: 20%;
+    margin-left: 10%;
 }
 
 .imagesp1:hover img{
@@ -244,6 +245,7 @@ transition: 0.5s;
 .slogan{
     margin-top: -3%;
     text-align: center;
+    margin-bottom: 100px;
 }
 
 .l1{
