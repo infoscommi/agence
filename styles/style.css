@@ -18,17 +18,20 @@ body{
                             "footer"
     }
     .etoile{
-        padding: 10px;   
-        margin-left: 40%;
+        display:none;   
     }
     
-    .imagesp1>img{
-        width: 10vh;
+    .etoile2{
+        display:none;   
+    }
+    
+    .etoile3{
+        display:none;   
+    }
+    
+    .imagesp1{
+        width: 10%;
 
-    }
-    
-    .effacer {
-        padding: 20px;
     }
     
 }
