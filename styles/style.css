@@ -25,6 +25,10 @@ body{
         justify-content: space-around;
     }
     
+    .real{
+        margin-right: 30%;
+    }
+    
 }
 
 a{
