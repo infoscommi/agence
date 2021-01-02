@@ -59,7 +59,11 @@ body{
     }
     
     .slogan {
-        margin-top: 2% !important;   
+        margin-top: 1% !important;   
+    }
+    
+    .effacer {
+        width: 8% !important;   
     }
     
 }
