@@ -3,6 +3,8 @@ body{
     margin: 0;
     color: #2c3e50;
     font-family:"Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    display: grid;
+    grid-template-columns: 1fr;
 }
 
 header>div>a{
