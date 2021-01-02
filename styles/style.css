@@ -35,22 +35,22 @@ body{
     }
     
     .imagesp1{
-        margin-top: 20%;   
+        margin-top: 20% !important;   
     }
     
-    trait1 {
+    .trait1 {
         margin-right: 50%;   
     }
     
-    trait2 {
+    .trait2 {
         margin-right: 50%;   
     }
     
-    trait3 {
+    .trait3 {
         margin-right: 50%;   
     }
     
-    trait4 {
+    .trait4 {
         margin-right: 50%;   
     }
     
