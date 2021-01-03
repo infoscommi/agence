@@ -26,11 +26,11 @@ body{
     }
     
     .trait1 {
-        margin-left: 20%;   
+        margin-left: 20% !important;   
     }
     
     .etoile {
-        margin-left: 1%;   
+        margin-left: 1% !important;   
     }
 }
 
