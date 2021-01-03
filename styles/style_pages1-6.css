@@ -32,6 +32,11 @@ body{
     .etoile {
         margin-left: 1% !important;   
     }
+    
+    .reseaux>.coteacote{
+        margin-right: 30%;
+        width: 30%;
+    }
 }
 
 header>div>a{
