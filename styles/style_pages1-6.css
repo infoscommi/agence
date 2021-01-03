@@ -47,15 +47,15 @@ body{
     
     .real {
         margin-left: 25% !important;
-        font-size: 10px;
+        font-size: 10px !important;
     }
     
     .apropos {
-        font-size: 10px;
+        font-size: 10px !important;
     }
     
     .contact {
-        font-size: 10px;
+        font-size: 10px !important;
     }
 }
 
