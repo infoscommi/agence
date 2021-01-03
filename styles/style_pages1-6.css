@@ -11,9 +11,10 @@ body{
     body {
         display: grid;
         grid-template-columns: 1fr; 
-        grid-template-area: "header"
-                            ".page"
-                            "footer" !important;
+    }
+    
+    .page {
+        display: block;   
     }
 }
 
