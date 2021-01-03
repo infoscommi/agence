@@ -14,7 +14,7 @@ body{
     }
     
     .page {
-        display: block;   
+        display: block !important;   
     }
 }
 
