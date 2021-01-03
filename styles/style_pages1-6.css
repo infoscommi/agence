@@ -34,8 +34,8 @@ body{
     }
     
     .reseaux>.coteacote{
-        margin-right: 30%;
-        width: 30%;
+        width: 20%;
+        margin-left: 25% !important;
     }
 }
 
