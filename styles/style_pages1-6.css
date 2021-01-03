@@ -21,6 +21,10 @@ body{
         order: 1;   
     }
     
+    .droite>img {
+        margin-top: -80%;   
+    }
+    
     .gauche {
         order: 2;   
     }
@@ -153,7 +157,7 @@ color: #1abc9c;
 
 .moyens{
     position: absolute ;
-    top: 40%;
+    top: 50%;
 }
 
 .retour{
