@@ -44,6 +44,19 @@ body{
     .basdepage {
         display: block !important;   
     }
+    
+    .real {
+        margin-left: 25% !important;
+        font-size: 10px;
+    }
+    
+    .apropos {
+        font-size: 10px;
+    }
+    
+    .contact {
+        font-size: 10px;
+    }
 }
 
 header>div>a{
