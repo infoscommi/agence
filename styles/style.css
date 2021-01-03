@@ -71,7 +71,8 @@ body{
     }
     
     header {
-        text-align: center;   
+        text-align: center; 
+        z-index: 1;
     }
     
     .slogan {
