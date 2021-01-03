@@ -16,6 +16,14 @@ body{
     .page {
         display: block !important;   
     }
+    
+    .droite {
+        order: 1;   
+    }
+    
+    .gauche {
+        order: 2;   
+    }
 }
 
 header>div>a{
